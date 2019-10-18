@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLQsxaNhYv8daKdGi7s85ubzbWdTB36-_q"/>
+ <id>yt:playlist:PLQsxaNhYv8daKdGi7s85ubzbWdTB36-_q</id>
+ <yt:playlistId>PLQsxaNhYv8daKdGi7s85ubzbWdTB36-_q</yt:playlistId>
+ <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+ <title>CHM Oral Histories</title>
+ <author>
+  <name>Computer History Museum</name>
+  <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+ </author>
+ <published>2013-09-20T22:33:07+00:00</published>
+ <entry>
+  <id>yt:video:Db5o7m1Bb70</id>
+  <yt:videoId>Db5o7m1Bb70</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Joanna Hoffman Part 3</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Db5o7m1Bb70"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-10-15T22:24:05+00:00</published>
+  <updated>2019-10-16T00:37:07+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Joanna Hoffman Part 3</media:title>
+   <media:content url="https://www.youtube.com/v/Db5o7m1Bb70?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Db5o7m1Bb70/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Marguerite Gong Hancock on 2019-01-22 in Princeton, CA X8464.2018
+© Computer History Museum
+
+Joanna Hoffman was born in 1955 and lived in Soviet Armenia and Poland until 1968.  She was then able to immigrate to the US at the age of 13, after her mother had married an American and moved to Buffalo NY. She ended up working at a number of high-profile tech companies in Silicon Valley, including Xerox PARC, Apple, and General Magic.
+
+In this, the third of three part oral history, Joanne takes a more reflective tone. She describes how her experiences have influenced her life and world view.  She also describes what it was like working for Steve Jobs – both positives and negatives. She also touches on her role as a pioneer for women in the tech field. She describes her views on mentoring, failure, the cultural differences between the east and west coast tech communities, and many other dimensions of her experience.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102781035
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102781036
+Lot Number: X8464.2018</media:description>
+   <media:community>
+    <media:starRating count="14" average="4.71" min="1" max="5"/>
+    <media:statistics views="113"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bTWv-l0JhAc</id>
+  <yt:videoId>bTWv-l0JhAc</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Brian Kernighan</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bTWv-l0JhAc"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-10-14T16:57:54+00:00</published>
+  <updated>2019-10-15T00:11:57+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Brian Kernighan</media:title>
+   <media:content url="https://www.youtube.com/v/bTWv-l0JhAc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bTWv-l0JhAc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by John R. Mashey on 2017-04-24 in Princeton, CA X8185.2017
+© Computer History Museum
+
+Toronto native Brian Kernighan moved to Princeton for grad school and while there, got summer jobs at Bell Labs, leading to a permanent position in Computing Research, where Unix was born.
+
+Before Unix and C became widely available, he coauthored “The Elements of Programming Style” to help improve programming generally. In the early 1970s, Fortran 66 was one of the few relatively portable languages, but its control structures were archaic, so he wrote the RATFOR preprocessor to add C-like control structures.
+ 
+Then he and Bill Plauger rewrote various Unix commands in RATFOR and wrote “Software Tools” so that a broader audience might get access, inspiring the Software Tools Users Group to adopt, port and promote them into other computing environments. Then, by 1978 he and Dennis Ritchie published the still-classic book “The C Programming Language.” He, Bob Fourer and Dave Gay wrote AMPL, a domain-specific language for optimization problems.
+
+With Al Aho and Peter Weinberger, he created the widely-used AWK tool that eased creation of programs to associate actions with patte4rn-matching. He spent much time on text-processing, writing Device Independent Troff (DITROFF), the PIC tool for pictures and the equation preprocessor EQN, with Lorinda Cherry.
+
+By 2000, he had “retired” from Bell Labs into teaching at Princeton, including much effort on making computing comrephensible for non-computing students. He has written much software still in wide use, plus many understandable books and articles. https://en.wikipedia.org/wiki/Brian_Kernighan  is useful for more detail.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102740169
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102740170
+Lot Number: X8185.2017</media:description>
+   <media:community>
+    <media:starRating count="36" average="5.00" min="1" max="5"/>
+    <media:statistics views="613"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LaJtYHvpa68</id>
+  <yt:videoId>LaJtYHvpa68</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of James Gosling Part 2 of 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LaJtYHvpa68"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-10-09T22:49:44+00:00</published>
+  <updated>2019-10-09T22:49:45+00:00</updated>
+  <media:group>
+   <media:title>Oral History of James Gosling Part 2 of 2</media:title>
+   <media:content url="https://www.youtube.com/v/LaJtYHvpa68?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LaJtYHvpa68/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Hansen Hsu and Marc Weber on 2019-04-22 in Mountain View, CA X8971.2019
+© Computer History Museum
+
+James Gosling is known as the father of the Java programming language. Growing up and attending college in Calgary, Alberta, Gosling began his Ph.D. at Carnegie Mellon University in 1977, finishing in 1983. While at CMU, Gosling developed the first Unix version of Emacs, learned about byte codes while porting PERQ software to VAX, and developed the Andrew window system. After a brief stint at IBM working on a RISC computer, Gosling joined Sun in 1984, and created the NeWS window system. After NeWS lost to X Windows in the marketplace, a group including Gosling formed the Green project at the end of 1990 to explore consumer technologies, producing the Star7, a multimedia remote control. It was for Star7 that Gosling first created the Oak language, later renamed Java. After a brief spin-out from Sun as the company FirstPerson and an unsuccessful foray into interactive cable TV, Gosling’s team repurposed Java for the Web in 1994, which enabled dynamic and interactive web pages at a time when most were static. Sun partnered with Netscape to include Java with the Navigator browser in 1995. Sun’s goal was for Java to become a network-centric, platform-independent platform that would free computers from proprietary systems like Microsoft. While Java is less popular than other languages on PCs and web browsers, it has become the dominant language in enterprise computing, and a major player in mobile and embedded computing.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102781105
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102781106
+Lot Number: X8971.2019</media:description>
+   <media:community>
+    <media:starRating count="17" average="4.53" min="1" max="5"/>
+    <media:statistics views="508"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TJ6XHroNewc</id>
+  <yt:videoId>TJ6XHroNewc</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of James Gosling, part 1 of 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TJ6XHroNewc"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-10-09T22:42:09+00:00</published>
+  <updated>2019-10-15T06:57:02+00:00</updated>
+  <media:group>
+   <media:title>Oral History of James Gosling, part 1 of 2</media:title>
+   <media:content url="https://www.youtube.com/v/TJ6XHroNewc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TJ6XHroNewc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Hansen Hsu and Marc Weber on 2019-03-15 in Mountain View, CA X8971.2019
+© Computer History Museum
+
+James Gosling is known as the father of the Java programming language. Growing up and attending college in Calgary, Alberta, Gosling began his Ph.D. at Carnegie Mellon University in 1977, finishing in 1983. While at CMU, Gosling developed the first Unix version of Emacs, learned about byte codes while porting PERQ software to VAX, and developed the Andrew window system. After a brief stint at IBM working on a RISC computer, Gosling joined Sun in 1984, and created the NeWS window system. After NeWS lost to X Windows in the marketplace, a group including Gosling formed the Green project at the end of 1990 to explore consumer technologies, producing the Star7, a multimedia remote control. It was for Star7 that Gosling first created the Oak language, later renamed Java. After a brief spin-out from Sun as the company FirstPerson and an unsuccessful foray into interactive cable TV, Gosling’s team repurposed Java for the Web in 1994, which enabled dynamic and interactive web pages at a time when most were static. Sun partnered with Netscape to include Java with the Navigator browser in 1995. Sun’s goal was for Java to become a network-centric, platform-independent platform that would free computers from proprietary systems like Microsoft. While Java is less popular than other languages on PCs and web browsers, it has become the dominant language in enterprise computing, and a major player in mobile and embedded computing.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102781080
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102781081
+Lot Number: X8971.2019</media:description>
+   <media:community>
+    <media:starRating count="189" average="4.83" min="1" max="5"/>
+    <media:statistics views="10802"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:NkfWtxGwoZM</id>
+  <yt:videoId>NkfWtxGwoZM</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Charles Bigelow</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=NkfWtxGwoZM"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-10-03T21:25:18+00:00</published>
+  <updated>2019-10-03T21:28:25+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Charles Bigelow</media:title>
+   <media:content url="https://www.youtube.com/v/NkfWtxGwoZM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NkfWtxGwoZM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Matthew Kirschenbaum on 2017-05-24 in Mountain View, CA X8212.2017
+© Computer History Museum
+
+The interview with Chuck Bigelow opens with a reflection on the Desktop Publishing meeting which had just concluded. The first half of the interview focuses largely on his biography, with particular emphasis on Bigelow’s upbringing and early education in Detroit and then at Reed College (studying calligraphy under Lloyd Reynolds), as well as his early career in San Francisco and Portland, Oregon which included ongoing intellectual and vocational development. His long-term collaboration with designer Kris Holmes is treated extensively, as is the development of the Lucida family of fonts. The interview then moves into later phases of Bigelow’s career and a range of other topics, including his perspectives on the early personal computer revolution, the “Font Wars,” and the rise of independent type design. Teaching at RISD, Stanford, and RIT is covered, as are industry collaborations and consultations, notably Imagen, Adobe, and Apple. The interview concludes with thoughts on the place of desktop publishing and digital type design in the long history of human communication. Those seeking more technical discussion of Bigelow’s type design are referred to his interview with Yue Wang published in TUGboat 34 (2013): https://tug.org/TUGboat/tb34-2/tb107bigelow-wang.pdf.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102738267
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102738268
+Lot Number: X8212.2017</media:description>
+   <media:community>
+    <media:starRating count="7" average="4.43" min="1" max="5"/>
+    <media:statistics views="225"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DTOVBDFZpEM</id>
+  <yt:videoId>DTOVBDFZpEM</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Michael Mallary</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=DTOVBDFZpEM"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-09-26T19:42:20+00:00</published>
+  <updated>2019-09-26T19:42:20+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Michael Mallary</media:title>
+   <media:content url="https://www.youtube.com/v/DTOVBDFZpEM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DTOVBDFZpEM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Grant Saviers and Tom Yamashita on 2019-06-19 in Mountain View, CA X9078.2019
+© Computer History Museum
+
+This oral history interview is with Dr. Michael L. Mallary, who was originally trained as a high energy physicist at Caltech but found his way into the storage technology field and credited with numerous inventions, patents and publications in the field over his illustrious career.  Dr. Mallary began his career in storage technology at Digital Equipment Corporation (DEC), starting in 1980 where he worked for 14 years.  He made many contributions there, solving highly technical problems with DEC products and inventing very innovative recording head designs, which are still used today.  In particular, he invented the shielded pole perpendicular writer.  This is US patent 4656546 in 1987, which allowed supporting engineering developments to double areal density.  It (Perpendicular Magnetic Recording) has been predominant in the industry since 2005.  After DEC was purchased by Quantum in 1994, Dr. Mallary remained with the company and made critical contribution to the acceptance of perpendicular recording in the disk drive industry through his contributions.  He was a key contributor in the National Storage Industry Consortium, or NSIC, which had as its charter to increase the areal density in magnetic recording.  He continued to make his contributions felt through the industry while working for Maxtor Corporation, which took over the Quantum operation in Shrewsbury.  After Maxtor, he was at Seagate and Western Digital Corporation working on advanced high-density recording concepts such as heat-assisted recording, or HAMR, microwave-assisted recording, or MAMR, and two-dimensional recording, or TDR.  Through his 165 issued patents and 57 technical publications, Dr. Mallary is one of the key innovators in the storage technology field.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102781590
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102781591
+Lot Number: X9078.2019</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="225"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:grYwbQ84nMM</id>
+  <yt:videoId>grYwbQ84nMM</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Jonathan Seybold</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=grYwbQ84nMM"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-09-25T18:00:32+00:00</published>
+  <updated>2019-09-25T18:00:32+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Jonathan Seybold</media:title>
+   <media:content url="https://www.youtube.com/v/grYwbQ84nMM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/grYwbQ84nMM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Burt Grad on 2019-05-24 in Mountain View, CA X8214.2017
+© Computer History Museum
+
+Following a brief discussion of his early life and college years, Jonathan Seybold talks in detail about the work that his father, John W. Seybold, and he did in promoting the development and implementation of computerization in the printing and publishing industries, beginning in the 1960s. They first joined efforts to run the company, ROCAPPI, which was a pioneer in digital typesetting and hyphenation and justification (H&amp;J) technologies. Jonathan then became the leading communicator for desktop publishing technology and the evangelist for the nascent desktop publishing industry. Jonathan worked as an industry consultant and founded Seybold Publications. He also founded Seybold Seminars, which grew into large, bicoastal gatherings and trade shows for both industry users and vendors. These forums were instrumental in promoting and disseminating information about the use of desktop publishing technologies during the 1980s and 1990s.  
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102738273
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102738274
+Lot Number: X8214.2017</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="208"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TIUIZUlOxM8</id>
+  <yt:videoId>TIUIZUlOxM8</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Invention, development and commercialization of GMR Heads oral history panel</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TIUIZUlOxM8"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-09-23T23:19:48+00:00</published>
+  <updated>2019-10-14T21:46:28+00:00</updated>
+  <media:group>
+   <media:title>Invention, development and commercialization of GMR Heads oral history panel</media:title>
+   <media:content url="https://www.youtube.com/v/TIUIZUlOxM8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TIUIZUlOxM8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Christopher Bajorek on 2019-03-30 in Mountain View, CA X9044.2019
+© Computer History Museum
+
+This oral history records the contributions of Drs. Dieny, Gurney, Mustafa Pinarbasi and Virgil Speriosu to the invention, development and commercialization of the magnetic recording head based on the giant magnetoresistance (GMR) phenomenon discovered by Fert and Grunberg.  The invention of the GMR head is especially noteworthy because it enabled the second generation of magnetoresitive heads which were used to read data in hard disk drives between 1997 and 2006.  Starting in 2005 key GMR head-related innovations enabled the commercialization of the tunneling magnetic junction devices used in tunnel magnetoresistive (TMR) heads and magnetic random-access memories (MRAM).  All modern disk drives and tape drives use TMR heads to read data.  
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102781311
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102781312
+Lot Number: X9044.2019</media:description>
+   <media:community>
+    <media:starRating count="9" average="4.56" min="1" max="5"/>
+    <media:statistics views="315"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MVEKt_H3FsI</id>
+  <yt:videoId>MVEKt_H3FsI</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Gary Davidian, part 2 of 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MVEKt_H3FsI"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-09-13T21:06:09+00:00</published>
+  <updated>2019-09-16T22:07:48+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Gary Davidian, part 2 of 2</media:title>
+   <media:content url="https://www.youtube.com/v/MVEKt_H3FsI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MVEKt_H3FsI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Hansen Hsu on 2019-03-14 in Mountain View, CA X8931.2019
+© Computer History Museum
+
+Gary Davidian discusses his work at Apple on the Motorola 68000 emulator for PowerPC, his subsequent work at Macintosh clone maker Power Computing, additional legal clean room contracting work, work on PowerPC accelerator cards for Newer Technology, and later contracting work doing performance optimizations for such software as Metrowerks’ Java virtual machine and codecs for Apple’s Final Cut Pro, QuickTime, iTunes, and Aperture.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102781078
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102781079
+Lot Number: X8931.2019</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="305"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:l_Go9D1kLNU</id>
+  <yt:videoId>l_Go9D1kLNU</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Gary Davidian, part 1 of 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=l_Go9D1kLNU"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-09-13T21:01:56+00:00</published>
+  <updated>2019-09-16T22:43:38+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Gary Davidian, part 1 of 2</media:title>
+   <media:content url="https://www.youtube.com/v/l_Go9D1kLNU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/l_Go9D1kLNU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Hansen Hsu on 2019-02-05 in Mountain View, CA X8931.2019
+© Computer History Museum
+
+Gary Davidian learned microprogramming in college at the University of Buffalo and, early in his career, became a specialist in microprogramming. After finishing his master’s in 1979, Davidian joined Data General, where he worked on the failed next generation Fountainhead Project. As told in Tracy Kidder’s Soul of the New Machine, the Fountainhead Project was eventually passed over in favor of the Eagle project, which became the 32-bit Eclipse. After Data General, Davidian joined Rational, a company making hardware designed to run the Defense Department’s Ada language, where Davidian got his first experience with the Motorola 68000 architecture. While at Rational, Davidian was approached by intellectual property lawyers to write a clean-room implementation of microcode for the Intel 8086 in a legal case where Intel was suing NEC for allegedly copying Intel’s microcode in their 8086 clone. Davidian left Rational to take the contract job, a lucrative opportunity. The case ultimately vindicated NEC, with Davidian’s clean room microcode proving that NEC’s microcode did not copy Intel’s, though it did set precedent by declaring that microcode could indeed be copyrighted. This incident is retold in Tim Jackson’s book Inside Intel: Andy Grove and the Rise of the World’s Most Powerful Chip Company. After finishing the initial contract in 1986, Davidian joined Apple’s System Software group. Davidian worked with hardware engineers to develop low-level software for the Macintosh IIx, IIcx, IIci, SE/30, Portable, and a failed project named “Modern Victorian,” whose technology ultimately ended up in the Mac IIfx. Much of this software was stored in the Macintosh ROM. Davidian wrote the routine for zapping the PRAM, as well as a new Time Manager that ended up being crucial to the development of QuickTime.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102740488
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102740489
+Lot Number: X8931.2019</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="351"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3S2g3VDwrlI</id>
+  <yt:videoId>3S2g3VDwrlI</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Fred Brooks Jr.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3S2g3VDwrlI"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-09-12T18:23:35+00:00</published>
+  <updated>2019-09-12T18:23:36+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Fred Brooks Jr.</media:title>
+   <media:content url="https://www.youtube.com/v/3S2g3VDwrlI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3S2g3VDwrlI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Grady Booch on 2007-09-16 in Cambridge, UK X4146.2008
+© Computer History Museum
+
+Legendary computer architect and educator Fred Brooks describes his early education and work life at IBM.  While there, he led IBM’s most ambitious development program ever, the IBM System/360 mainframe computer system.  Brooks describes the project and its milestones as well as challenges.  Brooks then discusses his moving to the University of North Carolina at Chapel Hill, where he was founder and chairman of the computer science department.  Finally, Brooks reflects on some of the perennial issues facing software developers and the management of large software projects.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102658255
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102658134
+Lot Number: X4146.2008</media:description>
+   <media:community>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="477"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7w5QHavQVGw</id>
+  <yt:videoId>7w5QHavQVGw</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Atiq Raza</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7w5QHavQVGw"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-09-09T20:39:54+00:00</published>
+  <updated>2019-09-11T18:15:16+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Atiq Raza</media:title>
+   <media:content url="https://www.youtube.com/v/7w5QHavQVGw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7w5QHavQVGw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Doug Fairbairn and Uday Kapoor on 2018-04-13 in Mountain View, CA X8569.2018
+© Computer History Museum
+
+Atiq Raza was born in Lahore, Pakistan. Mr. Raza is an industry veteran and has been working in engineering leadership and senior management positions in the Silicon Valley for more than 30 years. He has a Master's degree in Materials Science and Engineering from Stanford University, a double Bachelor's degree in Philosophy and Electrical Engineering with honors from the University of London and a Bachelor's degree with honors in Physics from Punjab University. Mr. Raza served in various management positions at VLSI, NexGen, AMD (President, COO and CTO) where he led the foundation of AMD'd processor roadmap, founded Raza Microelectronics, was Chairman and CEO of Seeo and currently serves as the Chairman and CEO of VIrsec. He serves on numerous boards and is actively sought as an engineering leader and venture adviser.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102740313
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102740314
+Lot Number: X8569.2018</media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="293"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:J9aejjAMiDo</id>
+  <yt:videoId>J9aejjAMiDo</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Demetrios Lignos</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=J9aejjAMiDo"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-09-09T17:47:18+00:00</published>
+  <updated>2019-09-09T20:41:16+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Demetrios Lignos</media:title>
+   <media:content url="https://www.youtube.com/v/J9aejjAMiDo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/J9aejjAMiDo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Grant Saviers on 2019-05-03 in Sarasota, FL X9056.2019
+© Computer History Museum
+
+Born in Greece, Dimitrios Lignos obtained his engineering degree in the US, and joined the computer storage industry with NCR.  At DEC, he developed the Massbus, a device independent bus, then several breakthrough storage products including the DEC RL01/02, the first fully embedded servo disk drive, and the DLT tape system.  Later he developed holographic storage technology for InPhase.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102781579
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102781580
+Lot Number: X9056.2019</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="169"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:PL40bQPP1EA</id>
+  <yt:videoId>PL40bQPP1EA</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Pradeep Sindhu</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=PL40bQPP1EA"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-08-27T17:39:07+00:00</published>
+  <updated>2019-08-27T17:39:07+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Pradeep Sindhu</media:title>
+   <media:content url="https://www.youtube.com/v/PL40bQPP1EA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/PL40bQPP1EA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Marguerite Gong Hancock and Marc Weber on 2016-04-25 in Mountain View, CA X7781.2016
+© Computer History Museum
+
+This oral history captures the fascinating story of Pradeep Sindhu’s professional journey from an itinerant life in India to becoming one of Silicon Valley’s most successful entrepreneurs.  Pradeep’s father was in the Army, so the family moved every couple of years for most of his early years. He was always fascinated with how things worked, constantly taking things apart or building new things with mechanical assembly toys.
+ 
+He attended IIT in Kanpur at the age of 15.  It was there that he was first introduced to computers and was fascinated by these wonderful machines. He eventually switched his focus from electrical engineering to computer science.  From IIT, he moved onto the University of Hawaii to study communication theory. From there he earned a scholarship at CMU, where he finished his PhD in the study of distributed operating systems.
+ 
+Upon graduation, he received offers from Bell Labs, IBM and other prestigious research organizations, but chose to go to Xerox PARC in 1984.  He found the people, working style and projects to be most to his liking.  While there, the primary project was called “Dragon” – an effort to build a 100 MIPs personal computer. This project involved a multiprocessor design, several custom chips, as well a major innovations in the operating system and software.
+
+Before that large project was complete there was an opportunity to take what they had done and learned to date and help Sun Microsystems get into the multiprocessor server market.  A joint program was formed and the result was a major new product for Sun.
+ 
+After returning to PARC he realized that Xerox was not likely going to provide the kind of environment to accomplish his personal goals, so he decided to take an entrepreneurial path to build a company which could make a substantial contribution to the industry.
+
+So in June of 1995, he took a leave of absence from Xerox and put together the plans for a new company, Juniper Networks, which took advantage of the explosive growth of the Internet by developing a unique router architecture to address a critical bottleneck in that network.  The company was phenomenally successful. Pradeep goes into some detail about how the company was formed, managed, and the critical decisions which were made along the way which propelled its success.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102738121
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102738120
+Lot Number: X7781.2016</media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="398"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JjL0dUoN_Rk</id>
+  <yt:videoId>JjL0dUoN_Rk</yt:videoId>
+  <yt:channelId>UCHDr4RtxwA1KqKGwxgdK4Vg</yt:channelId>
+  <title>Oral History of Sanjay Mehrotra</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JjL0dUoN_Rk"/>
+  <author>
+   <name>Computer History Museum</name>
+   <uri>https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg</uri>
+  </author>
+  <published>2019-08-26T20:27:30+00:00</published>
+  <updated>2019-08-26T20:27:30+00:00</updated>
+  <media:group>
+   <media:title>Oral History of Sanjay Mehrotra</media:title>
+   <media:content url="https://www.youtube.com/v/JjL0dUoN_Rk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JjL0dUoN_Rk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Interviewed by Uday Kapoor and Doug Fairbairn on 2019-02-15 in Mountain View, CA X8841.2019
+© Computer History Museum
+
+Sanjay Mehrotra, born in Kanpur, India, is president and chief executive officer at Micron Technology.
+
+Mr. Mehrotra joined Micron in May 2017, after a long and distinguished career at SanDisk Corporation where he led the company from start-up in 1988 until its eventual sale in 2016. In addition to being a SanDisk co-founder, Mr. Mehrotra served as its president and CEO from 2011 to 2016, overseeing its growth to an industry-leading Fortune 500 company.
+
+Prior to SanDisk, Mr. Mehrotra held design engineering positions at Integrated Device Technology, Inc., SEEQ Technology and Intel Corporation.
+
+Mr. Mehrotra earned both bachelor’s and master’s degrees in electrical engineering and computer science from the University of California, Berkeley and is a graduate of the Stanford Graduate School of Business Executive Program (SEP). He served on the board of directors of Cavium, Inc., from 2009 to 2018. Mr. Mehrotra holds more than 70 patents and has published articles in the areas of nonvolatile memory design and flash memory systems.
+
+* Note:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102740455
+
+Visit computerhistory.org/collections/oralhistories/ for more information about the Computer History Museum's Oral History Collection.
+
+Catalog Number: 102740456
+Lot Number: X8841.2019</media:description>
+   <media:community>
+    <media:starRating count="16" average="4.50" min="1" max="5"/>
+    <media:statistics views="336"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
