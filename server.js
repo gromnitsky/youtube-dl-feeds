@@ -3,25 +3,22 @@ let xamel = require('xamel')
 let xml = require('xamel/lib/xml')
 let fetch = require('node-fetch')
 
-let server = http.createServer((req, res) => {
+let server = http.createServer(async (req, res) => {
     let rss = exports.youtube2rss(req.url.slice(1))
     if (!rss) {
         res.statusCode = 400
-        res.end()
+        res.end(new Error('unsupported youtube url type').toString())
         return
     }
 
-    let result
-    my_fetch(rss).then( xml => {
-        return exports.rss_enhance(xml)
-    }).then( r => {
-        result = r
-    }).catch( err => {
+    let r
+    try {
+        r = await exports.rss_enhance(await my_fetch(rss))
+    } catch(err) {
         res.statusCode = 500
-        result = err.toString()
-    }).finally(() => {
-        res.end(result)
-    })
+        r = err.toString()
+    }
+    res.end(r)
 })
 
 if (require.main === module) server.listen(process.env.PORT || 3000)
