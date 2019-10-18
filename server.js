@@ -25,7 +25,7 @@ if (require.main === module) server.listen(process.env.PORT || 3000)
 
 
 function mk_enclosure(href, parent) {
-    return new xml.Tag('enclosure', {
+    return new xml.Tag('link', {
         href,
         rel: "enclosure",
         type: "audio/mpeg"      // a dummy value

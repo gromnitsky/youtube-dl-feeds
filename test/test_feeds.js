@@ -18,8 +18,9 @@ function xml_find(text, exp) {
 suite('xml', function() {
     test('rss_enhance', async function() {
         let xml = await server.rss_enhance(fs.readFileSync(__dirname + '/computer-history-museum-oral-history.xml').toString())
-        let enclosures = await xml_find(xml, 'feed/entry/enclosure')
-//        console.log(enclosures.children[0])
+        let enclosures = (await xml_find(xml, 'feed/entry/link')).children
+            .filter(tag => tag.attrs.rel === 'enclosure')
+//        console.log(enclosures)
         assert.equal(enclosures.length, 15)
     })
 })
