@@ -4,7 +4,7 @@ let xml = require('xamel/lib/xml')
 let fetch = require('node-fetch')
 
 let server = http.createServer(async (req, res) => {
-    let rss = exports.youtube2rss(req.url.slice(1))
+    let rss = exports.youtube2rss(decodeURIComponent(req.url.slice(1)))
     if (!rss) {
         res.statusCode = 400
         res.end(new Error('unsupported youtube url type').toString())
