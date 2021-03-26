@@ -5,7 +5,7 @@ gmakepod. Supports channels, users & playlists.
 
 Usage:
 
-    $ curl https://youtube-dl-feeds.herokuapp.com/https://www.youtube.com/user/StonedMeadowOfDoom93
+    $ curl https://youtube-dl-feeds.sigwait.tk/https://www.youtube.com/user/StonedMeadowOfDoom93
 
 It grabs a youtube feed & augments it w/ `<link rel="enclosure" .../>`
 tags.
