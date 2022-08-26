@@ -1,7 +1,6 @@
 let http = require('http')
 let xamel = require('xamel')
 let xml = require('xamel/lib/xml')
-let fetch = require('node-fetch')
 
 let server = http.createServer(async (req, res) => {
     let rss = exports.youtube2rss(decodeURIComponent(req.url.slice(1)))

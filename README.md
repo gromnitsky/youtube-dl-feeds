@@ -3,6 +3,8 @@
 A tiny node server that spits out youtube atom feeds for
 gmakepod. Supports channels, users & playlists.
 
+Requires node >= 18.
+
 Usage:
 
     $ curl https://youtube-dl-feeds.sigwait.tk/https://www.youtube.com/user/StonedMeadowOfDoom93

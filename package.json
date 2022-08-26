@@ -1,9 +1,8 @@
 {
     "dependencies": {
-        "node-fetch": "^2.6.1",
         "xamel": "^0.3.1"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "name": "youtube-dl-feeds",
     "private": true
 }
