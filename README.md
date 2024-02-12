@@ -7,7 +7,7 @@ Requires node >= 18.
 
 Usage:
 
-    $ curl https://youtube-dl-feeds.sigwait.tk/https://www.youtube.com/user/StonedMeadowOfDoom93
+    $ curl https://apps.sigwait.org/youtube-dl-feeds/https://www.youtube.com/user/StonedMeadowOfDoom93
 
 It grabs a youtube feed & augments it w/ `<link rel="enclosure" .../>`
 tags.
